@@ -1,4 +1,4 @@
-
+Number Guessing Game 
 A simple Number Guessing game using Python
 A number guessing game aims to guess the number that the program has come up with. Essentially the program logic is:
 
